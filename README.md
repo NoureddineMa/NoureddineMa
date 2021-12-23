@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there !  🚀 its Noureddine Maher👋
 
-<!--
-**NoureddineMa/NoureddineMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+
+- 🔭 I’m currently working on My goal To become a Front-end Developper or why not Full stack ! 
+- 🌱 I’m currently learning Coding in Youcode ! 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: gmail : noureddinemaher13@gmail.com or Behance : https://www.behance.net/noureddinedesign
+- ⚡ Fun fact: im in love with Design Web <3 
+
+## 🛠 Skills
+	-HTML, CSS
+	- Adobe xd 
+#
+
+###  STUDENT AT YOUCODE / youssoufia 
+
+
+
