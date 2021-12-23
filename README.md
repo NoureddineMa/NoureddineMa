@@ -1,7 +1,7 @@
 ### Hi there !  🚀 its Noureddine Maher👋
 
 
-I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
+I am a web developer, ambitious person , intersted to be a full stack developper  
 
 
 
@@ -18,6 +18,9 @@ I am a web developer, ambitious person who has developed a mature and responsibl
 #
 
 ###  STUDENT AT YOUCODE / youssoufia 
+
+
+
 
 
 
