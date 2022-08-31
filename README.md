@@ -12,10 +12,13 @@ Ambitious person , intersted to be a full stack developper
 - ⚡ Fun fact: im in love with Web Design <3 
 
 ## 🛠 Skills
-	-HTML, CSS (Bootstrap)
+	- HTML, CSS (Bootstrap-Argon CSS - Tailwind )
+	- PHP 
+	- JavaScript 
 	- Adobe xd 
 	- Adobe Illustrator 
 	- Adobe Photoshop
+	-Figma
 #
 
 ###  STUDENT AT YOUCODE / youssoufia 
