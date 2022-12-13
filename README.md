@@ -14,7 +14,7 @@ Ambitious person , intersted to be a full stack developper
 ## 🛠 Skills
 	- HTML, CSS (Bootstrap-Argon CSS - Tailwind )
 	- JavaScript 
-	- { NodeJs , React Js , Express , MongoDB } 
+	- { MongoDB , Express ,  React Js , NodeJs  } 
 	- Adobe xd 
 	- Adobe Illustrator 
 	- Adobe Photoshop
